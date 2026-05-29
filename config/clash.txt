@@ -1,17 +1,12 @@
-https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies/all.txt
 https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri
 https://github.com/4n0nymou3/multi-proxy-config-fetcher/raw/refs/heads/main/configs/proxy_configs.txt
 https://github.com/freefq/free/raw/refs/heads/master/v2
 https://github.com/MhdiTaheri/V2rayCollector_Py/raw/refs/heads/main/sub/Mix/mix.txt
-https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt
 https://github.com/MhdiTaheri/V2rayCollector/raw/refs/heads/main/sub/mix
 https://raw.githubusercontent.com/mehran1404/Sub_Link/refs/heads/main/V2RAY-Sub.txt
 https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt
-https://raw.githubusercontent.com/LoneKingCode/free-proxy-db/refs/heads/main/proxies/all.txt
 https://raw.githubusercontent.com/lagzian/SS-Collector/refs/heads/main/mix.txt
-https://raw.githubusercontent.com/ssrsub/ssr/refs/heads/master/hysteria2.txt
-https://raw.githubusercontent.com/ssrsub/ssr/refs/heads/master/hysteria.txt
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/refs/heads/master/list_raw.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/blues.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/clashmeta.txt
